@@ -14,3 +14,7 @@ It's a retailer Bank offering the following products:
 - InterContinentalBankersERGenerated202206141932.sql: Scripts originally generated from the ERD.
 - InterContinentalBankersWithSchemas.jpg: A file that depicts InterContinentalBankers ERD diagram.   
 
+
+### ERD Diagram
+The ERD diagram I have designed as the blurprint to creating the InterContinentalBankers OLTP database.
+![InterContinentalBankers](InterContinentalBankersWithSchemas.jpg)
