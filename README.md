@@ -1,5 +1,5 @@
-# InterContinentalBankers
-**InterContinental Bankers** is a fictitious banking institution that operates globally. It operates in *North America, Latin-America, Europe, and Africa.*
+# Intercontinental Bankers
+**Intercontinental Bankers** is a fictitious banking institution that operates globally. It operates in *North America, Latin-America, Europe, and Africa.*
 It's a retailer Bank offering the following products:
 - Checking accounts
 - Savings accounts
